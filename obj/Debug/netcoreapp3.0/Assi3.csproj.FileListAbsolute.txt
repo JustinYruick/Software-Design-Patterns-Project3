@@ -1,0 +1,13 @@
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\bin\Debug\netcoreapp3.0\Assi3.exe
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\bin\Debug\netcoreapp3.0\Assi3.deps.json
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\bin\Debug\netcoreapp3.0\Assi3.runtimeconfig.json
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\bin\Debug\netcoreapp3.0\Assi3.runtimeconfig.dev.json
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\bin\Debug\netcoreapp3.0\Assi3.dll
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\bin\Debug\netcoreapp3.0\Assi3.pdb
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\obj\Debug\netcoreapp3.0\Assi3.csprojAssemblyReference.cache
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\obj\Debug\netcoreapp3.0\Assi3.AssemblyInfoInputs.cache
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\obj\Debug\netcoreapp3.0\Assi3.AssemblyInfo.cs
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\obj\Debug\netcoreapp3.0\Assi3.csproj.CoreCompileInputs.cache
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\obj\Debug\netcoreapp3.0\Assi3.dll
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\obj\Debug\netcoreapp3.0\Assi3.pdb
+D:\Schoolwork\Simester 5\SoftwareDesign2\Assi3Starter\obj\Debug\netcoreapp3.0\Assi3.genruntimeconfig.cache
